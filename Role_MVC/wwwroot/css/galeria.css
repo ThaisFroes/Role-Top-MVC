@@ -1,0 +1,19 @@
+#galeria {
+    background-color: #993399;
+    padding: 10px;
+    width: auto;
+}
+#galeria ul {list-style:none; }
+#galeria ul li {display:inline;}
+#galeria ul img  {
+    border: 5px solid #7d0093;
+    border-width: 5px 5px 20px;
+    color:#7d0093;
+}
+#galeria ul a:hover {color:#7d0093;}
+
+#galeria {
+    color: #7d0093;
+}
+
+

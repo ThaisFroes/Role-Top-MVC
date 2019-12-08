@@ -1,0 +1,102 @@
+C:\Users\44592799836\Desktop\MVC\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.deps.json
+C:\Users\44592799836\Desktop\MVC\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.runtimeconfig.json
+C:\Users\44592799836\Desktop\MVC\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.runtimeconfig.dev.json
+C:\Users\44592799836\Desktop\MVC\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.dll
+C:\Users\44592799836\Desktop\MVC\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.pdb
+C:\Users\44592799836\Desktop\MVC\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.Views.dll
+C:\Users\44592799836\Desktop\MVC\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.Views.pdb
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.csprojAssemblyReference.cache
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.csproj.CoreCompileInputs.cache
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorAssemblyInfo.cache
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorAssemblyInfo.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.AssemblyInfoInputs.cache
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.AssemblyInfo.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.TagHelpers.input.cache
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.TagHelpers.output.cache
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorCoreGenerate.cache
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.Views.pdb
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.dll
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.pdb
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.csproj.CopyComplete
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Pedido\Index.g.cshtml.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Login.g.cshtml.cs
+C:\Users\44592799836\Desktop\MVC\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Administrador\Dashboard.g.cshtml.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorAssemblyInfo.cache
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorAssemblyInfo.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.TagHelpers.input.cache
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.TagHelpers.output.cache
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorCoreGenerate.cache
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Administrador\Dashboard.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Cadastro\Index.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Historico.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Login.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Duvidas\Duvidas.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Eventos\Eventos.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Galeria\Galeia.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Pedido\Index.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Sobre\Sobre.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.dll
+C:\Users\thais froes\Desktop\senai 02_12\termina-logo-isso\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.pdb
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.csprojAssemblyReference.cache
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.csproj.CoreCompileInputs.cache
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorAssemblyInfo.cache
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorAssemblyInfo.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.AssemblyInfoInputs.cache
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.AssemblyInfo.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.TagHelpers.input.cache
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.TagHelpers.output.cache
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorCoreGenerate.cache
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Administrador\Dashboard.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Historico.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Login.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Duvidas\Duvidas.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Eventos\Eventos.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Pedido\Index.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Sobre\Sobre.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.dll
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.pdb
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.deps.json
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.runtimeconfig.json
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.runtimeconfig.dev.json
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.dll
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.pdb
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.Views.dll
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\bin\Debug\netcoreapp2.2\Role_MVC.Views.pdb
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.Views.pdb
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Role_MVC.csproj.CopyComplete
+C:\Users\44592799836\Documents\06-12 role\sem-fim\Role_MVC\obj\Debug\netcoreapp2.2\Razor\Views\Galeria\Galeria.g.cshtml.cs
